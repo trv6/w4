@@ -1,0 +1,8 @@
+1 	Azure Lore
+25 	Burst Affinity
+40 	Chain Affinity
+75 Merit Points 	Convergence
+75 Merit Points 	Diffusion
+83 	Efflux
+95 	Unbridled Learning
+96 	Unbridled Wisdom

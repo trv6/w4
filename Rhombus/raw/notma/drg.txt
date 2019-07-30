@@ -1,0 +1,17 @@
+1 	Spirit Surge
+1 	Call Wyvern
+5 	Ancient Circle
+10 	Jump
+25 	Spirit Link
+35 	High Jump
+50 	Super Jump
+75 Merit Points 	Deep Breathing
+75 Merit Points 	Angon
+77 	Spirit Jump
+85 	Soul Jump
+87 	Dragon Breaker
+96 	Fly High
+1 	Dismiss
+90 	Smiting Breath
+90 	Restoring Breath
+95 	Steady Wing

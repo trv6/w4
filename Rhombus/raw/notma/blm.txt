@@ -1,0 +1,7 @@
+1 	Manafont
+15 	Elemental Seal
+76 	Mana Wall
+85 	Cascade
+87 	Enmity Douse
+95 	Manawell
+96 	Subtle Sorcery

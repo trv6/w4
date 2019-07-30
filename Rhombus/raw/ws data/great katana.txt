@@ -1,0 +1,15 @@
+  	SAM 	NIN
+Tachi: Enpi 	Transfixion SC Icon.png Transfixion / Scission SC Icon.png Scission 	5 	● 	●
+Tachi: Hobaku 	Induration SC Icon.png Induration 	30 	● 	●
+Tachi: Goten 	Transfixion SC Icon.png Transfixion / Impaction SC Icon.png Impaction 	70 	● 	●
+Tachi: Kagero 	Liquefaction SC Icon.png Liquefaction 	100 	● 	●
+Tachi: Jinpu 	Scission SC Icon.png Scission / Detonation SC Icon.png Detonation 	150 	● 	●
+Tachi: Koki 	Reverberation SC Icon.png Reverberation / Impaction SC Icon.png Impaction 	175 	● 	●
+Tachi: Yukikaze 	Induration SC Icon.png Induration / Detonation SC Icon.png Detonation 	200 	■ 	×
+Tachi: Gekko 	Distortion SC Icon.png Distortion / Reverberation SC Icon.png Reverberation 	225 	■ 	♦
+Tachi: Kasha 	Fusion SC Icon.png Fusion / Compression SC Icon.png Compression 	(Q) 	★ 	×
+Tachi: Ageha 	Compression SC Icon.png Compression / Scission SC Icon.png Scission 	300 	● 	●
+Tachi: Shoha 	Fragmentation SC Icon.png Fragmentation / Compression SC Icon.png Compression 	(Merit) 	★ 	×
+Tachi: Kaiten 	Light SC Icon.png Light / Fragmentation SC Icon.png Fragmentation 	(Relic) 	★ 	×
+Tachi: Fudo 	Light SC Icon.png Light / Distortion SC Icon.png Distortion 	(Empyrean) 	★ 	×
+Tachi: Rana 	Gravitation SC Icon.png Gravitation / Induration SC Icon.png Induration 	(Mythic) 	★ 	×

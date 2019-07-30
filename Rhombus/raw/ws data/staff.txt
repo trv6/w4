@@ -1,0 +1,17 @@
+  	PLD 	WAR 	MNK 	SMN 	DRG 	BLM 	WHM 	BRD 	SCH
+Heavy Swing 	Impaction SC Icon.png Impaction 	5 	● 	● 	● 	● 	● 	● 	● 	● 	●
+Rock Crusher 	Impaction SC Icon.png Impaction 	40 	● 	● 	● 	● 	● 	● 	● 	● 	●
+Earth Crusher 	Detonation SC Icon.png Detonation / Impaction SC Icon.png Impaction 	70 	● 	● 	● 	× 	× 	× 	● 	× 	×
+Starburst 	Reverberation SC Icon.png Reverberation / Compression SC Icon.png Compression 	100 	● 	● 	● 	● 	● 	● 	● 	● 	●
+Sunburst 	Reverberation SC Icon.png Reverberation / Compression SC Icon.png Compression 	150 	● 	● 	● 	× 	× 	× 	● 	× 	×
+Shell Crusher 	Detonation SC Icon.png Detonation 	175 	● 	● 	● 	● 	● 	● 	● 	● 	●
+Full Swing 	Liquefaction SC Icon.png Liquefaction / Impaction SC Icon.png Impaction 	200 	● 	● 	● 	● 	● 	● 	● 	● 	●
+Spirit Taker 	No Skillchain Propety 	215 	● 	● 	● 	● 	● 	● 	● 	● 	●
+Retribution 	Gravitation SC Icon.png Gravitation / Reverberation SC Icon.png Reverberation 	(Q) 	★ 	★ 	★ 	★ 	★ 	★ 	★ 	★ 	★
+Cataclysm 	Reverberation SC Icon.png Reverberation / Compression SC Icon.png Compression 	290 	● 	● 	● 	× 	× 	× 	● 	× 	×
+Shattersoul 	Gravitation SC Icon.png Gravitation / Induration SC Icon.png Induration 	(Merit) 	★ 	★ 	★ 	★ 	★ 	★ 	★ 	★ 	★
+Gate of Tartarus 	Dark SC Icon.png Darkness / Distortion SC Icon.png Distortion 	(Relic) 	× 	× 	× 	★ 	× 	★ 	× 	× 	×
+Myrkr 	No Skillchain Propety 	(Empyrean) 	× 	× 	× 	★ 	× 	★ 	× 	× 	★
+Vidohunir 	Fragmentation SC Icon.png Fragmentation / Distortion SC Icon.png Distortion 	(Mythic) 	× 	× 	× 	× 	× 	★ 	× 	× 	×
+Garland of Bliss 	Fusion SC Icon.png Fusion / Reverberation SC Icon.png Reverberation 	(Mythic) 	× 	× 	× 	★ 	× 	× 	× 	× 	×
+Omniscience 	Gravitation SC Icon.png Gravitation / Transfixion SC Icon.png Transfixion 	(Mythic) 	× 	× 	× 	× 	× 	× 	× 	× 	★

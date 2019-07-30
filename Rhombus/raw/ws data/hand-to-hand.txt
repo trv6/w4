@@ -1,0 +1,16 @@
+  	MNK 	PUP 	DNC 	WAR 	THF 	NIN 	RDM 	DRK 	BST
+Combo 	Impaction SC Icon.png Impaction 	5 	● 	● 	● 	● 	● 	● 	× 	× 	×
+Shoulder Tackle 	Reverberation SC Icon.png Reverberation / Impaction SC Icon.png Impaction 	40 	● 	● 	● 	● 	● 	● 	× 	× 	×
+One Inch Punch 	Compression SC Icon.png Compression 	75 	■ 	■ 	× 	× 	× 	× 	× 	× 	×
+Backhand Blow 	Detonation SC Icon.png Detonation 	100 	● 	● 	● 	● 	● 	● 	× 	× 	×
+Raging Fists 	Impaction SC Icon.png Impaction 	125 	■ 	■ 	× 	× 	× 	× 	× 	× 	×
+Spinning Attack 	Liquefaction SC Icon.png Liquefaction / Impaction SC Icon.png Impaction 	150 	● 	● 	● 	● 	● 	● 	× 	× 	×
+Howling Fist 	Impaction SC Icon.png Impaction / Transfixion SC Icon.png Transfixion 	200 	■ 	■ 	× 	× 	× 	× 	× 	× 	×
+Dragon Kick 	Fragmentation SC Icon.png Fragmentation 	225 	■ 	■ 	♦ 	♦ 	♦ 	♦ 	♦ 	♦ 	♦
+Asuran Fists 	Gravitation SC Icon.png Gravitation / Liquefaction SC Icon.png Liquefaction 	(Q) 	★ 	★ 	× 	× 	× 	× 	× 	× 	×
+Tornado Kick 	Detonation SC Icon.png Detonation / Induration SC Icon.png Induration / Impaction SC Icon.png Impaction 	300 	● 	● 	× 	× 	× 	× 	× 	× 	×
+Shijin Spiral 	Fusion SC Icon.png Fusion / Reverberation SC Icon.png Reverberation 	(Merit) 	★ 	★ 	× 	× 	× 	× 	× 	× 	×
+Final Heaven 	Light SC Icon.png Light / Fusion SC Icon.png Fusion 	(Relic) 	★ 	× 	× 	× 	× 	× 	× 	× 	×
+Victory Smite 	Light SC Icon.png Light / Fragmentation SC Icon.png Fragmentation 	(Empyrean) 	★ 	★ 	× 	× 	× 	× 	× 	× 	×
+Ascetic's Fury 	Fusion SC Icon.png Fusion / Transfixion SC Icon.png Transfixion 	(Mythic) 	★ 	× 	× 	× 	× 	× 	× 	× 	×
+Stringing Pummel 	Gravitation SC Icon.png Gravitation / Liquefaction SC Icon.png Liquefaction 	(Mythic) 	× 	★ 	× 	× 	× 	× 	× 	× 	×

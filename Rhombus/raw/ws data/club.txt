@@ -1,0 +1,17 @@
+  	PLD 	WHM 	GEO 	BLU 	WAR 	MNK 	SMN 	SCH 	BLM 	DRK 	RDM 	BRD 	BST 	PUP 	THF 	RNG 	SAM 	DRG 	NIN
+Shining Strike 	Impaction SC Icon.png Impaction 	5 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	●
+Seraph Strike 	Impaction SC Icon.png Impaction 	40 	● 	● 	● 	● 	● 	× 	× 	× 	× 	● 	× 	× 	× 	× 	× 	× 	● 	× 	×
+Brainshaker 	Reverberation SC Icon.png Reverberation 	70 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	●
+Starlight 	No Skillchain Propety 	100 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	●
+Moonlight 	No Skillchain Propety 	125 	● 	● 	● 	● 	● 	× 	× 	× 	× 	● 	× 	× 	× 	× 	× 	× 	● 	× 	×
+Skullbreaker 	Induration SC Icon.png Induration / Reverberation SC Icon.png Reverberation 	150 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	●
+True Strike 	Detonation SC Icon.png Detonation / Impaction SC Icon.png Impaction 	175 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	●
+Judgment 	Impaction SC Icon.png Impaction 	200 	● 	● 	● 	● 	● 	× 	× 	× 	× 	● 	× 	× 	× 	× 	× 	× 	● 	× 	×
+Hexa Strike 	Fusion SC Icon.png Fusion 	220 	♦ 	■ 	■ 	× 	♦ 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	×
+Black Halo 	Fragmentation SC Icon.png Fragmentation / Compression SC Icon.png Compression 	(Q) 	★ 	★ 	★ 	★ 	★ 	★ 	★ 	★ 	★ 	× 	× 	× 	× 	× 	× 	× 	× 	× 	×
+Flash Nova 	Reverberation SC Icon.png Reverberation / Induration SC Icon.png Induration 	290 	● 	● 	● 	● 	● 	× 	× 	× 	× 	● 	× 	× 	× 	× 	× 	× 	● 	× 	×
+Realmrazer 	Fusion SC Icon.png Fusion / Impaction SC Icon.png Impaction 	(Merit) 	★ 	★ 	★ 	★ 	★ 	★ 	★ 	★ 	★ 	× 	× 	× 	× 	× 	× 	× 	× 	× 	×
+Randgrith 	Light SC Icon.png Light / Fragmentation SC Icon.png Fragmentation 	(Relic) 	× 	★ 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	×
+Dagan 	No Skillchain Propety 	(Empyrean) 	× 	★ 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	×
+Mystic Boon 	No Skillchain Propety 	(Mythic) 	× 	★ 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	×
+Exudation 	Dark SC Icon.png Darkness / Fragmentation SC Icon.png Fragmentation 	(Ergon) 	× 	× 	★ 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	×

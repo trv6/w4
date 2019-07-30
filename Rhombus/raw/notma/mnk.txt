@@ -1,0 +1,13 @@
+1 	Hundred Fists
+5 	Boost
+15 	Dodge
+25 	Focus
+35 	Chakra
+41 	Chi Blast
+45 	Counterstance
+65 	Footwork
+75 Merit Points 	Mantra
+75 Merit Points 	Formless Strikes
+79 	Perfect Counter
+88 	Impetus
+96 	Inner Strength

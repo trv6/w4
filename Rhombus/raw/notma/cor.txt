@@ -1,0 +1,41 @@
+1 	Wild Card
+5 	Phantom Roll
+5 	Double-Up
+40 	Quick Draw
+50 	Random Deal
+75 Merit Points 	Snake Eye
+75 Merit Points 	Fold
+87 	Triple Shot
+95 	Crooked Cards
+96 	Cutting Cards
+5 	Corsair's Roll
+8 	Ninja Roll
+11 	Hunter's Roll
+14 	Chaos Roll
+17 	Magus's Roll
+20 	Healer's Roll
+23 	Drachen Roll
+26 	Choral Roll
+31 	Monk's Roll
+34 	Beast Roll
+37 	Samurai Roll
+40 	Evoker's Roll
+43 	Rogue's Roll
+46 	Warlock's Roll
+49 	Fighter's Roll
+52 	Puppet Roll
+55 	Gallant's Roll
+58 	Wizard's Roll
+61 	Dancer's Roll
+64 	Scholar's Roll
+67 	Naturalist's Roll
+70 	Runeist's Roll
+76 	Bolter's Roll
+79 	Caster's Roll
+81 	Courser's Roll
+83 	Blitzer's Roll
+86 	Tactician's Roll
+89 	Allies' Roll
+92 	Miser's Roll
+95 	Companion's Roll
+97 	Avenger's Roll

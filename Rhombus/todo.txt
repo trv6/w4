@@ -1,0 +1,8 @@
+FILTERS
+    Need a list of spells which require merits to access.
+    Cannot filter merited weaponskills without also checking current weapon.
+        Need a map of weapons which grant access to weapon skills (relic, aeonic, SU2)
+    Need a map of pet -> {list of pet abilities} in order to filter by current pet.
+RECASTS
+    Beastmaster ability Ready is not supported at all.
+        Need a map of jug pet name -> {abilities and point cost}

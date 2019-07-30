@@ -1,0 +1,23 @@
+1 	Elemental Sforzo
+5 	Ignis
+5 	Gelus
+5 	Flabra
+5 	Tellus
+5 	Sulpor
+5 	Unda
+5 	Lux
+5 	Tenebrae
+10 	Vallation
+20 	Swordplay
+25 	Swipe
+25 	Lunge
+40 	Pflug
+50 	Valiance
+60 	Embolden
+65 	Vivacious Pulse
+70 	Gambit
+75 Merit Points 	Battuta
+75 Merit Points 	Rayke
+85 	Liement
+95 	One for All
+96 	Odyllic Subterfuge

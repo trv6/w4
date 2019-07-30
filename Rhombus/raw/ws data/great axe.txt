@@ -1,0 +1,15 @@
+  	WAR 	RUN 	DRK
+Shield Break 	Impaction SC Icon.png Impaction 	5 	● 	● 	●
+Iron Tempest 	Scission SC Icon.png Scission 	40 	● 	● 	●
+Sturmwind 	Scission SC Icon.png Scission / Reverberation SC Icon.png Reverberation 	70 	● 	● 	●
+Armor Break 	Impaction SC Icon.png Impaction 	100 	● 	● 	●
+Keen Edge 	Compression SC Icon.png Compression 	150 	● 	● 	●
+Weapon Break 	Impaction SC Icon.png Impaction 	175 	● 	● 	●
+Raging Rush 	Reverberation SC Icon.png Reverberation / Induration SC Icon.png Induration 	200 	■ 	× 	×
+Full Break 	Distortion SC Icon.png Distortion 	225 	■ 	♦ 	♦
+Steel Cyclone 	Distortion SC Icon.png Distortion / Detonation SC Icon.png Detonation 	(Q) 	★ 	★ 	★
+Fell Cleave 	Scission SC Icon.png Scission / Detonation SC Icon.png Detonation 	300 	● 	● 	●
+Upheaval 	Fusion SC Icon.png Fusion / Compression SC Icon.png Compression 	(Merit) 	★ 	★ 	★
+Metatron Torment 	Light SC Icon.png Light / Fusion SC Icon.png Fusion 	(Relic) 	★ 	× 	×
+Ukko's Fury 	Light SC Icon.png Light / Fragmentation SC Icon.png Fragmentation 	(Empyrean) 	★ 	× 	×
+King's Justice 	Fragmentation SC Icon.png Fragmentation / Scission SC Icon.png Scission 	(Mythic) 	★ 	× 	×

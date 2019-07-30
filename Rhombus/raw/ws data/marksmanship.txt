@@ -1,0 +1,14 @@
+  	RNG 	COR 	THF 	WAR 	NIN 	DRK
+Hot Shot 	Liquefaction SC Icon.png Liquefaction / Transfixion SC Icon.png Transfixion 	5 	● 	● 	× 	× 	× 	×
+Split Shot 	Reverberation SC Icon.png Reverberation / Transfixion SC Icon.png Transfixion 	40 	● 	● 	× 	× 	× 	×
+Sniper Shot 	Liquefaction SC Icon.png Liquefaction / Transfixion SC Icon.png Transfixion 	80 	● 	● 	× 	× 	× 	×
+Slug Shot 	Reverberation SC Icon.png Reverberation / Detonation SC Icon.png Detonation / Transfixion SC Icon.png Transfixion 	175 	● 	● 	× 	× 	× 	×
+Blast Shot 	Induration SC Icon.png Induration / Transfixion SC Icon.png Transfixion 	200 	■ 	× 	× 	× 	× 	×
+Heavy Shot 	Fusion SC Icon.png Fusion 	225 	■ 	× 	♦ 	♦ 	× 	♦
+Detonator 	Fusion SC Icon.png Fusion / Transfixion SC Icon.png Transfixion 	(Q) 	★ 	★ 	× 	× 	× 	×
+Numbing Shot 	Induration SC Icon.png Induration / Detonation SC Icon.png Detonation / Impaction SC Icon.png Impaction 	290 	● 	● 	× 	× 	× 	×
+Last Stand 	Fusion SC Icon.png Fusion / Reverberation SC Icon.png Reverberation 	(Merit) 	★ 	★ 	★ 	× 	× 	×
+Coronach 	Dark SC Icon.png Darkness / Fragmentation SC Icon.png Fragmentation 	(Relic) 	★ 	× 	× 	× 	× 	×
+Wildfire 	Dark SC Icon.png Darkness / Gravitation SC Icon.png Gravitation 	(Empyrean) 	★ 	★ 	× 	× 	× 	×
+Trueflight 	Fragmentation SC Icon.png Fragmentation / Scission SC Icon.png Scission 	(Mythic) 	★ 	× 	× 	× 	× 	×
+Leaden Salute 	Gravitation SC Icon.png Gravitation / Transfixion SC Icon.png Transfixion 	(Mythic) 	× 	★ 	× 	× 	× 	×

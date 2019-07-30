@@ -1,0 +1,121 @@
+1 	Astral Flow
+50 	Elemental Siphon
+70 	Apogee
+87 	Mana Cede
+96 	Astral Conduit
+1 	Assault
+1 	Retreat
+1 	Release
+1 	Blood Pact: Rage
+1 	Blood Pact: Ward
+55 	Avatar's Favor
+75 Merit Points     Meteor Strike
+75 Merit Points     Heavenly Strike
+75 Merit Points     Wind Blade
+75 Merit Points     Geocrush
+75 Merit Points     Thunderstorm
+75 Merit Points     Grand Fall
+1 	Inferno
+1 	Earthen Fury
+1 	Tidal Wave
+1 	Aerial Blast
+1 	Diamond Dust
+1 	Judgment Bolt
+1 	Searing Light
+1 	Howling Moon
+1 	Ruinous Omen
+1 	Punch
+1 	Rock Throw
+1 	Barracuda Dive
+1 	Claw
+1 	Axe Kick
+1 	Shock Strike
+1 	Camisado
+1 	Regal Scratch
+5 	Poison Nails
+5 	Moonlit Charge
+10 	Fire II
+10 	Stone II
+10 	Water II
+10 	Aero II
+10 	Blizzard II
+10 	Thunder II
+10 	Crescent Fang
+19 	Thunderspark
+21 	Rock Buster
+23 	Burning Strike
+26 	Tail Whip
+30 	Double Punch
+35 	Megalith Throw
+50 	Double Slap
+55 	Meteorite
+60 	Fire IV
+60 	Stone IV
+60 	Water IV
+60 	Aero IV
+60 	Blizzard IV
+60 	Thunder IV
+65 	Eclipse Bite
+65 	Nether Blast
+70 	Flaming Crush
+70 	Mountain Buster
+70 	Spinning Dive
+70 	Predator Claws
+70 	Rush
+70 	Chaotic Strike
+75 	Zantetsuken
+75 	Level ? Holy
+76 	Holy Mist
+78 	Lunar Bay
+80 	Night Terror
+99 	Conflag Strike
+99 	Volt Strike
+99 	Crag Throw
+99 	Blindside
+99 	Regal Gash
+99 	Impact
+1 	Altana's Favor
+1 	Healing Ruby
+15 	Raise II
+20 	Somnolence
+21 	Lunar Cry
+24 	Shining Ruby
+25 	Mewing Lullaby
+25 	Aerial Armor
+28 	Frost Armor
+29 	Nightmare
+30 	Reraise II
+31 	Rolling Thunder
+32 	Lunar Roar
+33 	Slowga
+36 	Whispering Wind
+37 	Ultimate Terror
+38 	Crimson Howl
+39 	Sleepga
+42 	Lightning Armor
+43 	Ecliptic Growl
+44 	Glittering Ruby
+46 	Earthen Ward
+47 	Spring Water
+48 	Hastega
+49 	Noctoshield
+54 	Ecliptic Howl
+55 	Eerie Eye
+56 	Dream Shroud
+65 	Healing Ruby II
+75 	Perfect Defense
+75 	Deconstruction
+75 	Chronoshift
+82 	Earthen Armor
+84 	Tidal Roar
+86 	Fleet Wind
+88 	Inferno Howl
+90 	Diamond Storm
+92 	Shock Squall
+94 	Soothing Ruby
+96 	Heavenward Howl
+98 	Pavor Nocturnus
+99 	Pacifying Ruby
+99 	Hastega II
+99 	Soothing Current
+99 	Crystal Blessing

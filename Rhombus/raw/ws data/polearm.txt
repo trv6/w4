@@ -1,0 +1,15 @@
+  	DRG 	WAR 	SAM 	PLD
+Double Thrust 	Transfixion SC Icon.png Transfixion 	5 	● 	● 	● 	●
+Thunder Thrust 	Impaction SC Icon.png Impaction / Transfixion SC Icon.png Transfixion 	30 	● 	● 	● 	●
+Raiden Thrust 	Impaction SC Icon.png Impaction / Transfixion SC Icon.png Transfixion 	70 	● 	● 	× 	●
+Leg Sweep 	Impaction SC Icon.png Impaction 	100 	● 	● 	● 	●
+Penta Thrust 	Compression SC Icon.png Compression 	150 	● 	● 	● 	●
+Vorpal Thrust 	Reverberation SC Icon.png Reverberation / Transfixion SC Icon.png Transfixion 	175 	● 	● 	● 	●
+Skewer 	Impaction SC Icon.png Impaction / Transfixion SC Icon.png Transfixion 	200 	■ 	× 	× 	×
+Wheeling Thrust 	Fusion SC Icon.png Fusion 	225 	■ 	♦ 	♦ 	♦
+Impulse Drive 	Gravitation SC Icon.png Gravitation / Induration SC Icon.png Induration 	(Q) 	★ 	★ 	★ 	×
+Sonic Thrust 	Scission SC Icon.png Scission / Transfixion SC Icon.png Transfixion 	300 	● 	● 	● 	●
+Stardiver 	Gravitation SC Icon.png Gravitation / Transfixion SC Icon.png Transfixion 	(Merit) 	★ 	★ 	★ 	×
+Geirskogul 	Light SC Icon.png Light / Distortion SC Icon.png Distortion 	(Relic) 	★ 	× 	× 	×
+Camlann's Torment 	Light SC Icon.png Light / Fragmentation SC Icon.png Fragmentation 	(Empyrean) 	★ 	× 	× 	×
+Drakesbane 	Fusion SC Icon.png Fusion / Transfixion SC Icon.png Transfixion 	(Mythic) 	★ 	× 	× 	×

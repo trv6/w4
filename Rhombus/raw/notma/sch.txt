@@ -1,0 +1,24 @@
+1 	Tabula Rasa
+10 	Light Arts
+10 	Dark Arts
+35 	Sublimation
+65 	Modus Veritas
+75 Merit Points 	Enlightenment
+76 	Libra
+96 	Caper Emissarius
+10 	Penury
+10 	Addendum: White
+25 	Celerity
+40 	Accession
+55 	Rapture
+75 Merit Points 	Altruism
+75 Merit Points 	Tranquility
+87 	Perpetuance
+10 	Parsimony
+25 	Alacrity
+30 	Addendum: Black
+40 	Manifestation
+55 	Ebullience
+75 Merit Points 	Focalization
+75 Merit Points 	Equanimity
+87 	Immanence

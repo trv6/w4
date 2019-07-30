@@ -1,0 +1,15 @@
+  	DRK 	WAR 	BST 	BLM
+Slice 	Scission SC Icon.png Scission 	5 	● 	● 	● 	●
+Dark Harvest 	Reverberation SC Icon.png Reverberation 	30 	● 	● 	● 	●
+Shadow of Death 	Reverberation SC Icon.png Reverberation / Induration SC Icon.png Induration 	70 	● 	● 	× 	×
+Nightmare Scythe 	Scission SC Icon.png Scission / Compression SC Icon.png Compression 	100 	● 	● 	● 	●
+Spinning Scythe 	Scission SC Icon.png Scission / Reverberation SC Icon.png Reverberation 	125 	● 	● 	● 	●
+Vorpal Scythe 	Scission SC Icon.png Scission / Transfixion SC Icon.png Transfixion 	150 	● 	● 	● 	●
+Guillotine 	Induration SC Icon.png Induration 	200 	■ 	× 	× 	×
+Cross Reaper 	Distortion SC Icon.png Distortion 	225 	■ 	♦ 	♦ 	♦
+Spiral Hell 	Distortion SC Icon.png Distortion / Scission SC Icon.png Scission 	(Q) 	★ 	★ 	★ 	×
+Infernal Scythe 	Reverberation SC Icon.png Reverberation / Compression SC Icon.png Compression 	300 	● 	● 	● 	●
+Entropy 	Gravitation SC Icon.png Gravitation / Reverberation SC Icon.png Reverberation 	(Merit) 	★ 	★ 	★ 	×
+Catastrophe 	Dark SC Icon.png Darkness / Gravitation SC Icon.png Gravitation 	(Relic) 	★ 	× 	× 	×
+Quietus 	Dark SC Icon.png Darkness / Distortion SC Icon.png Distortion 	(Empyrean) 	★ 	× 	× 	×
+Insurgency 	Fusion SC Icon.png Fusion / Compression SC Icon.png Compression 	(Mythic) 	★ 	× 	× 	×

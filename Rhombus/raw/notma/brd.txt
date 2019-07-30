@@ -1,0 +1,7 @@
+1 	Soul Voice
+20 	Pianissimo
+75 Merit Points 	Nightingale
+75 Merit Points 	Troubadour
+83 	Tenuto
+93 	Marcato
+96 	Clarion Call

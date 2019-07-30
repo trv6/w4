@@ -1,0 +1,19 @@
+1 	Familiar
+1 	Charm
+10 	Gauge
+12 	Reward
+23 	Call Beast
+23 	Bestial Loyalty
+30 	Tame
+75 Merit Points 	Feral Howl
+75 Merit Points 	Killer Instinct
+96 	Unleash
+1 	Fight
+10 	Heel
+15 	Stay
+25 	Sic
+25 	Ready
+35 	Leave
+45 	Snarl
+83 	Spur
+93 	Run Wild

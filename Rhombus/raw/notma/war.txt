@@ -1,0 +1,12 @@
+1 	Mighty Strikes
+5 	Provoke
+15 	Berserk
+25 	Defender
+35 	Warcry
+45 	Aggressor
+60 	Retaliation
+75 Merit Points 	Warrior's Charge
+75 Merit Points 	Tomahawk
+77 	Restraint
+87 	Blood Rage
+96 	Brazen Rush

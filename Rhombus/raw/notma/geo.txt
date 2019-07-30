@@ -1,0 +1,14 @@
+1 	Bolster
+5 	Full Circle
+25 	Lasting Emanation
+25 	Ecliptic Attrition
+40 	Collimated Fervor
+50 	Life Cycle
+60 	Blaze of Glory
+70 	Dematerialize
+75 	Entrust
+75 Merit Points 	Mending Halation
+75 Merit Points 	Radial Arcana
+80 	Theurgic Focus
+90 	Concentric Pulse
+96 	Widened Compass

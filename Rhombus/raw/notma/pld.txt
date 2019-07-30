@@ -1,0 +1,12 @@
+1 	Invincible
+5 	Holy Circle
+15 	Shield Bash
+30 	Sentinel
+35 	Cover
+62 	Rampart
+75 Merit Points 	Fealty
+75 Merit Points 	Chivalry
+78 	Divine Emblem
+87 	Sepulcher
+95 	Palisade
+96 	Intervene

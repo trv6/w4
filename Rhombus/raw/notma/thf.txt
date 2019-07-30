@@ -1,0 +1,15 @@
+1 	Perfect Dodge
+5 	Steal
+15 	Sneak Attack
+25 	Flee
+30 	Trick Attack
+35 	Mug
+45 	Hide
+65 	Accomplice
+65 	Collaborator
+75 Merit Points 	Assassin's Charge
+75 Merit Points 	Feint
+77 	Despoil
+87 	Conspirator
+93 	Bully
+96 	Larceny

@@ -1,0 +1,37 @@
+1 	Trance
+50 	Contradance
+75 Merit Points 	Saber Dance
+75 Merit Points 	Fan Dance
+75 Merit Points 	No Foot Rise
+77 	Presto
+96 	Grand Pas
+5 	Drain Samba
+25 	Aspir Samba
+35 	Drain Samba II
+45 	Haste Samba
+60 	Aspir Samba II
+65 	Drain Samba III
+15 	Curing Waltz
+25 	Divine Waltz
+30 	Curing Waltz II
+35 	Healing Waltz
+45 	Curing Waltz III
+70 	Curing Waltz IV
+78 	Divine Waltz II
+87 	Curing Waltz V
+20 	Quickstep
+30 	Box Step
+40 	Stutter Step
+83 	Feather Step
+25 	Spectral Jig
+55 	Chocobo Jig
+70 	Chocobo Jig II
+20 	Animated Flourish
+30 	Desperate Flourish
+45 	Violent Flourish
+40 	Reverse Flourish
+50 	Building Flourish
+60 	Wild Flourish
+80 	Climactic Flourish
+89 	Striking Flourish
+93 	Ternary Flourish

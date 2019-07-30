@@ -1,0 +1,14 @@
+1 	Eagle Eye Shot
+1 	Sharpshot
+10 	Scavenge
+20 	Camouflage
+30 	Barrage
+40 	Shadowbind
+45 	Velocity Shot
+51 	Unlimited Shot
+75 Merit Points 	Flashy Shot
+75 Merit Points 	Stealth Shot
+79 	Double Shot
+87 	Bounty Shot
+95 	Decoy Shot
+96 	Overkill

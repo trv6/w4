@@ -1,0 +1,12 @@
+1 	Blood Weapon
+5 	Arcane Circle
+15 	Last Resort
+20 	Weapon Bash
+30 	Souleater
+55 	Consume Mana
+75 Merit Points 	Dark Seal
+75 Merit Points 	Diabolic Eye
+78 	Nether Void
+87 	Arcane Crest
+95 	Scarlet Delirium
+96 	Soul Enslavement

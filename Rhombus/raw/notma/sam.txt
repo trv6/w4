@@ -1,0 +1,14 @@
+1 	Meikyo Shisui
+5 	Warding Circle
+15 	Third Eye
+25 	Hasso
+30 	Meditate
+35 	Seigan
+40 	Sekkanoki
+65 	Konzen-ittai
+75 Merit Points 	Shikikoyo
+75 Merit Points 	Blade Bash
+77 	Sengikori
+87 	Hamanoha
+95 	Hagakure
+96 	Yaegasumi

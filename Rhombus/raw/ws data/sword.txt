@@ -1,0 +1,19 @@
+  	PLD 	BLU 	RUN 	WAR 	RDM 	COR 	DRK 	SAM 	NIN 	DRG 	BRD 	THF 	RNG 	DNC 	BST
+Fast Blade 	Scission SC Icon.png Scission 	5 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	●
+Burning Blade 	Liquefaction SC Icon.png Liquefaction 	30 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	●
+Red Lotus Blade 	Liquefaction SC Icon.png Liquefaction / Detonation SC Icon.png Detonation 	50 	● 	● 	● 	● 	× 	× 	● 	× 	× 	× 	× 	× 	× 	× 	×
+Flat Blade 	Impaction SC Icon.png Impaction 	75 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	●
+Shining Blade 	Scission SC Icon.png Scission 	100 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	●
+Seraph Blade 	Scission SC Icon.png Scission 	125 	● 	● 	● 	● 	× 	× 	● 	× 	× 	× 	× 	× 	× 	× 	×
+Circle Blade 	Reverberation SC Icon.png Reverberation / Impaction SC Icon.png Impaction 	150 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	●
+Spirits Within 	No Skillchain Propety 	175 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	●
+Vorpal Blade 	Scission SC Icon.png Scission / Impaction SC Icon.png Impaction 	200 	● 	● 	● 	● 	■ 	× 	● 	× 	× 	× 	× 	× 	× 	× 	×
+Swift Blade 	Gravitation SC Icon.png Gravitation 	225 	■ 	♦ 	■ 	♦ 	♦ 	♦ 	♦ 	♦ 	× 	♦ 	♦ 	♦ 	× 	♦ 	×
+Savage Blade 	Fragmentation SC Icon.png Fragmentation / Scission SC Icon.png Scission 	(Q) 	★ 	★ 	★ 	★ 	★ 	★ 	★ 	× 	× 	× 	× 	× 	× 	× 	×
+Sanguine Blade 	No Skillchain Propety 	300 	● 	● 	● 	● 	× 	× 	● 	× 	× 	× 	× 	× 	× 	× 	×
+Requiescat 	Gravitation SC Icon.png Gravitation / Scission SC Icon.png Scission 	(Merit) 	★ 	★ 	★ 	★ 	★ 	★ 	★ 	★ 	× 	× 	× 	× 	× 	× 	×
+Knights of Round 	Light SC Icon.png Light / Fusion SC Icon.png Fusion 	(Relic) 	★ 	× 	× 	× 	★ 	× 	× 	× 	× 	× 	× 	× 	× 	× 	×
+Chant du Cygne 	Light SC Icon.png Light / Distortion SC Icon.png Distortion 	(Empyrean) 	★ 	★ 	× 	× 	★ 	× 	× 	× 	× 	× 	× 	× 	× 	× 	×
+Death Blossom 	Fragmentation SC Icon.png Fragmentation / Distortion SC Icon.png Distortion 	(Mythic) 	× 	× 	× 	× 	★ 	× 	× 	× 	× 	× 	× 	× 	× 	× 	×
+Atonement 	Fusion SC Icon.png Fusion / Reverberation SC Icon.png Reverberation 	(Mythic) 	★ 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	×
+Expiacion 	Distortion SC Icon.png Distortion / Scission SC Icon.png Scission 	(Mythic) 	× 	★ 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	×

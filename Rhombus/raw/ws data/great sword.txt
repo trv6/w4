@@ -1,0 +1,15 @@
+  	RUN 	DRK 	WAR 	PLD
+Hard Slash 	Scission SC Icon.png Scission 	5 	● 	● 	● 	●
+Power Slash 	Transfixion SC Icon.png Transfixion 	30 	● 	● 	● 	●
+Frostbite 	Induration SC Icon.png Induration 	70 	● 	● 	● 	●
+Freezebite 	Detonation SC Icon.png Detonation / Induration SC Icon.png Induration 	100 	● 	● 	● 	●
+Shockwave 	Reverberation SC Icon.png Reverberation 	150 	● 	● 	● 	●
+Crescent Moon 	Scission SC Icon.png Scission 	175 	● 	● 	● 	●
+Sickle Moon 	Scission SC Icon.png Scission / Impaction SC Icon.png Impaction 	200 	■ 	■ 	× 	■
+Spinning Slash 	Fragmentation SC Icon.png Fragmentation 	225 	■ 	■ 	♦ 	■
+Ground Strike 	Fragmentation SC Icon.png Fragmentation / Distortion SC Icon.png Distortion 	(Q) 	★ 	★ 	★ 	★
+Herculean Slash 	Detonation SC Icon.png Detonation / Induration SC Icon.png Induration / Impaction SC Icon.png Impaction 	290 	● 	● 	● 	●
+Resolution 	Fragmentation SC Icon.png Fragmentation / Scission SC Icon.png Scission 	(Merit) 	★ 	★ 	★ 	★
+Scourge 	Light SC Icon.png Light / Fusion SC Icon.png Fusion 	(Relic) 	× 	★ 	★ 	★
+Torcleaver 	Light SC Icon.png Light / Distortion SC Icon.png Distortion 	(Empyrean) 	× 	★ 	× 	★
+Dimidiation 	Light SC Icon.png Light / Fragmentation SC Icon.png Fragmentation 	(Ergon) 	★ 	× 	× 	×

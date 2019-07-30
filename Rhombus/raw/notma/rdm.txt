@@ -1,0 +1,6 @@
+1 	Chainspell
+40 	Convert
+50 	Composure
+83 	Saboteur
+95 	Spontaneity
+96 	Stymie

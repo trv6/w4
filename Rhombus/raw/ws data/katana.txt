@@ -1,0 +1,15 @@
+  	NIN
+Blade: Rin 	Transfixion SC Icon.png Transfixion 	5 	●
+Blade: Retsu 	Scission SC Icon.png Scission 	30 	●
+Blade: Teki 	Reverberation SC Icon.png Reverberation 	70 	●
+Blade: To 	Detonation SC Icon.png Detonation / Induration SC Icon.png Induration 	100 	●
+Blade: Chi 	Impaction SC Icon.png Impaction / Transfixion SC Icon.png Transfixion 	150 	●
+Blade: Ei 	Compression SC Icon.png Compression 	175 	●
+Blade: Jin 	Detonation SC Icon.png Detonation / Impaction SC Icon.png Impaction 	200 	■
+Blade: Ten 	Gravitation SC Icon.png Gravitation 	225 	■
+Blade: Ku 	Gravitation SC Icon.png Gravitation / Transfixion SC Icon.png Transfixion 	(Q) 	★
+Blade: Yu 	Scission SC Icon.png Scission / Reverberation SC Icon.png Reverberation 	290 	●
+Blade: Shun 	Fusion SC Icon.png Fusion / Impaction SC Icon.png Impaction 	(Merit) 	★
+Blade: Metsu 	Dark SC Icon.png Darkness / Fragmentation SC Icon.png Fragmentation 	(Relic) 	★
+Blade: Hi 	Dark SC Icon.png Darkness / Gravitation SC Icon.png Gravitation 	(Empyrean) 	★
+Blade: Kamu 	Fragmentation SC Icon.png Fragmentation / Compression SC Icon.png Compression 	(Mythic) 	★

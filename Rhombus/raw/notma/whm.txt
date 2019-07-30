@@ -1,0 +1,9 @@
+01 	Benediction
+15 	Divine Seal
+40 	Afflatus Solace
+40 	Afflatus Misery
+75 Merit Points 	Martyr
+75 Merit Points 	Devotion
+83 	Divine Caress
+95 	Sacrosanctity
+96 	Asylum

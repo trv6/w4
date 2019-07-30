@@ -1,0 +1,18 @@
+  	THF 	COR 	DNC 	RDM 	WAR 	RNG 	BRD 	BST 	NIN 	PUP 	DRK 	PLD 	BLM 	SCH 	SAM 	DRG 	SMN 	GEO
+Wasp Sting 	Scission SC Icon.png Scission 	5 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	●
+Gust Slash 	Detonation SC Icon.png Detonation 	40 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	●
+Shadowstitch 	Reverberation SC Icon.png Reverberation 	70 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	●
+Viper Bite 	Scission SC Icon.png Scission 	100 	● 	× 	● 	● 	× 	● 	● 	× 	● 	× 	× 	× 	× 	× 	× 	× 	× 	×
+Cyclone 	Detonation SC Icon.png Detonation / Impaction SC Icon.png Impaction 	125 	● 	× 	● 	● 	× 	● 	● 	× 	● 	× 	× 	× 	× 	× 	× 	× 	× 	×
+Energy Steal 	No Skillchain Propety 	150 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	● 	●
+Energy Drain 	No Skillchain Propety 	175 	● 	× 	● 	● 	× 	● 	● 	× 	● 	× 	× 	× 	× 	× 	× 	× 	× 	×
+Dancing Edge 	Scission SC Icon.png Scission / Detonation SC Icon.png Detonation 	200 	■ 	× 	■ 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	×
+Shark Bite 	Fragmentation SC Icon.png Fragmentation 	225 	■ 	× 	■ 	× 	× 	× 	× 	× 	× 	× 	× 	× 	♦ 	♦ 	× 	× 	♦ 	♦
+Evisceration 	Gravitation SC Icon.png Gravitation / Transfixion SC Icon.png Transfixion 	(Q) 	★ 	★ 	★ 	★ 	★ 	★ 	★ 	★ 	★ 	× 	× 	× 	× 	× 	× 	× 	× 	×
+Aeolian Edge 	Scission SC Icon.png Scission / Detonation SC Icon.png Detonation / Impaction SC Icon.png Impaction 	290 	● 	× 	● 	● 	× 	● 	● 	× 	● 	× 	× 	× 	× 	× 	× 	× 	× 	×
+Exenterator 	Fragmentation SC Icon.png Fragmentation / Scission SC Icon.png Scission 	(Merit) 	★ 	★ 	★ 	★ 	★ 	★ 	★ 	★ 	★ 	× 	× 	× 	× 	× 	× 	× 	× 	×
+Mercy Stroke 	Dark SC Icon.png Darkness / Gravitation SC Icon.png Gravitation 	(Relic) 	★ 	× 	× 	★ 	× 	× 	★ 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	×
+Rudra's Storm 	Dark SC Icon.png Darkness / Distortion SC Icon.png Distortion 	(Empyrean) 	★ 	× 	★ 	× 	× 	× 	★ 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	×
+Mandalic Stab 	Fusion SC Icon.png Fusion / Compression SC Icon.png Compression 	(Mythic) 	★ 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	×
+Mordant Rime 	Fragmentation SC Icon.png Fragmentation / Distortion SC Icon.png Distortion 	(Mythic) 	× 	× 	× 	× 	× 	× 	★ 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	×
+Pyrrhic Kleos 	Distortion SC Icon.png Distortion / Scission SC Icon.png Scission 	(Mythic) 	× 	× 	★ 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	× 	×

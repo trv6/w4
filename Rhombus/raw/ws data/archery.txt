@@ -1,0 +1,12 @@
+  	RNG 	SAM 	THF 	RDM 	WAR 	NIN 	PLD 	DRK 	BST
+Flaming Arrow 	Liquefaction SC Icon.png Liquefaction / Transfixion SC Icon.png Transfixion 	5 	● 	× 	× 	× 	× 	× 	× 	× 	×
+Piercing Arrow 	Reverberation SC Icon.png Reverberation / Transfixion SC Icon.png Transfixion 	40 	● 	× 	× 	× 	× 	× 	× 	× 	×
+Dulling Arrow 	Liquefaction SC Icon.png Liquefaction / Transfixion SC Icon.png Transfixion 	80 	● 	× 	× 	× 	× 	× 	× 	× 	×
+Sidewinder 	Reverberation SC Icon.png Reverberation / Detonation SC Icon.png Detonation / Transfixion SC Icon.png Transfixion 	175 	● 	× 	× 	× 	× 	× 	× 	× 	×
+Blast Arrow 	Induration SC Icon.png Induration / Transfixion SC Icon.png Transfixion 	200 	■ 	× 	× 	× 	× 	× 	× 	× 	×
+Arching Arrow 	Fusion SC Icon.png Fusion 	225 	■ 	♦ 	♦ 	♦ 	♦ 	♦ 	♦ 	♦ 	♦
+Empyreal Arrow 	Fusion SC Icon.png Fusion / Transfixion SC Icon.png Transfixion 	(Q) 	★ 	× 	× 	× 	× 	× 	× 	× 	×
+Refulgent Arrow 	Reverberation SC Icon.png Reverberation / Transfixion SC Icon.png Transfixion 	290 	● 	× 	× 	× 	× 	× 	× 	× 	×
+Apex Arrow 	Fragmentation SC Icon.png Fragmentation / Transfixion SC Icon.png Transfixion 	(Merit) 	★ 	★ 	× 	× 	× 	× 	× 	× 	×
+Namas Arrow 	Light SC Icon.png Light / Distortion SC Icon.png Distortion 	(Relic) 	★ 	★ 	× 	× 	× 	× 	× 	× 	×
+Jishnu's Radiance 	Light SC Icon.png Light / Fusion SC Icon.png Fusion 	(Empyrean) 	★ 	× 	× 	× 	× 	× 	× 	× 	×
