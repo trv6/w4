@@ -1,0 +1,2 @@
+return {buffs = {player = {}}, jobs = {}}
+
