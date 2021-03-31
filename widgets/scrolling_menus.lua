@@ -63,7 +63,7 @@ function scrolling_menu.new(x, y, visible, settings)
 			return true
 		end)
 
-		t:register_event('move', function(x, y)
+		t:register_event('movement', function(b, x, y)
 			local _, pos_y = t:pos()
 			local line_height = settings.line_height
 			local n = math.ceil((y - pos_y) / line_height)
@@ -72,7 +72,7 @@ function scrolling_menu.new(x, y, visible, settings)
 			t.body:element_position('highlight', 0, (n - 1) * line_height)
 		end)
 
-		t:register_event('focus change', function(b)
+		t:register_event('focus change', function(_, b)
 			t.body:element_visibility('highlight', b)
 		end)
 
@@ -91,7 +91,7 @@ function scrolling_menu.new(x, y, visible, settings)
 				print(n, s)
 			end)
 		--]]
-		t.body:register_event('left click', function(x, y)
+		t:register_event('left click', function(b, x, y)
 			if not t.left_click then return end
 
 			local _, pos_y = t:pos()

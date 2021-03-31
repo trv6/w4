@@ -184,7 +184,7 @@ local function mouse_event_listener(type, x, y, delta, blocked)
 
 	if carried_object then
 		if type == 0 then -- drag event
-			local bail = object_event_map[carried_object] and object_event_map[carried_object]:trigger('drag')
+			local bail = object_event_map[carried_object] and object_event_map[carried_object]:trigger('drag', x, y)
 
 			if not bail then -- Allow objects to define their own drag behavior e.g. scroll bars only drag vertically
 				local w, h = carried_object:size()

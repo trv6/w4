@@ -33,27 +33,6 @@ for _, cat in pairs({'text', 'prim'}) do
 	windower[cat].rawset_visibility = visibility
 end
 
--- The values returned from the text functions are scaled. Scale them back up.
-do
-	local windower_settings = windower.get_windower_settings()
-	local ui_scale = windower_settings.x_res/windower_settings.ui_x_res
-
-	local extents = windower.text.get_extents
-	local location = windower.text.get_location
-
-	windower.text.get_extents = function(name)
-		local w, h = extents(name)
-
-		return w * ui_scale, h * ui_scale
-	end
-
-	windower.text.get_location = function(name)
-		local x, y = location(name)
-
-		return x * ui_scale, y * ui_scale
-	end
-end
-
 -- In order for this library to function properly, _addon.name must be defined and unique among loaded addons
 
 local seq_name

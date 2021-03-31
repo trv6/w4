@@ -126,19 +126,21 @@ function scrolling_texts.new(x, y, visible, settings)
 	local widgets = _libs and _libs.widgets
 
 	if widgets then
-		t:register_event('scroll', function(x, y, delta)
+		widgets.start_tracking_object(t, nil, m.w, m.h)
+		t:register_event('scroll', function(b, x, y, delta)
 			scrolling_texts.scroll(t, delta)
 			
 			return true
 		end)
-
-		t.handle:register_event('left button down', function(x, y)
+		
+		widgets.start_tracking_object(t.handle)
+		t.handle:register_event('left button down', function(b, x, y)
 			widgets.grab_object(t.handle, x, y)
 
 			return true
 		end)
 
-		t.handle:register_event('drag', function(x, y)
+		t.handle:register_event('drag', function(b, x, y)
 			local contact_x, contact_y = widgets.get_contact_point()
 			local increment_height = m.h / #settings.lines
 			local obj_x, obj_y = groups.pos(t)
@@ -197,7 +199,7 @@ end
 
 function scrolling_texts.jump(t, line_number)
 	local from, to = range_finder(t, line_number)
-
+print('jump', line_number, from, to)
 	draw_text(t, from, to)
 	meta[t].from = from
 
@@ -207,6 +209,7 @@ function scrolling_texts.jump(t, line_number)
 end
 
 function scrolling_texts.scroll(t, delta)
+print('scroll', delta)
 	local m = meta[t]
 
 	if delta == 0 or delta == -0 or m.lines.n <= m.lines_displayed then return end
