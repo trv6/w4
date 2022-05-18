@@ -209,7 +209,7 @@ print('jump', line_number, from, to)
 end
 
 function scrolling_texts.scroll(t, delta)
-print('scroll', delta)
+-- print('scroll', delta)
 	local m = meta[t]
 
 	if delta == 0 or delta == -0 or m.lines.n <= m.lines_displayed then return end
@@ -244,6 +244,10 @@ end
 
 function scrolling_texts.get_line(t, n)
 	return meta[t].lines[n]
+end
+
+function scrolling_texts.line_count(t)
+	return meta[t].lines.n
 end
 
 function scrolling_texts.get_line_height(t)

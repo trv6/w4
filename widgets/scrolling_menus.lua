@@ -69,6 +69,7 @@ function scrolling_menu.new(x, y, visible, settings)
 			local n = math.ceil((y - pos_y) / line_height)
 			n = n > 0 and n or 1
 
+			if n > t:line_count() then return end
 			t.body:element_position('highlight', 0, (n - 1) * line_height)
 		end)
 
@@ -100,6 +101,7 @@ function scrolling_menu.new(x, y, visible, settings)
 			n = n > 0 and n or 1
 			n = n + t:get_scroll_offset() - 1
 
+			if n > t:line_count() then return end
 			t.left_click(n, t:get_line(n))
 		end)
 	end
